@@ -30,11 +30,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="52" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yetinek/yetinek/output/snake.svg" alt="Snake animation" />
-
-###
